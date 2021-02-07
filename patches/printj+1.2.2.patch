@@ -1,0 +1,13 @@
+diff --git a/node_modules/printj/package.json b/node_modules/printj/package.json
+index 005d1d8..ebe4bb6 100644
+--- a/node_modules/printj/package.json
++++ b/node_modules/printj/package.json
+@@ -80,7 +82,7 @@
+   ],
+   "license": "Apache-2.0",
+   "main": "./printj",
+-  "module": "./print.mjs",
++  "module": "./printj.mjs",
+   "name": "printj",
+   "repository": {
+     "type": "git",
