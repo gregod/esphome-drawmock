@@ -1,5 +1,8 @@
 # DrawMock for ESPHome
 
+
+![Screenshot of mocked ui](./screenshot.png)
+
 This is an early attempt to mock the display module of ESPHome so that designs can be tested before flashing.
 We use a web development stack using live-reload so that changes in the drawing code are immediately rendered in a browser window. 
 
